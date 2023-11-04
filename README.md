@@ -3,9 +3,8 @@
 </div>
 
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
 
-  <div id="header">
+  <div align="center">
     <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100"/>
   </div>
   <h1>Hi there. I'm Carneala </h1>
