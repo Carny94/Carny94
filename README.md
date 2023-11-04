@@ -21,9 +21,9 @@
 </div>
 
 
-### :woman_technologist: 
-
-About Me :
+--- 
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
+<h1>About Me :</h1>
 
 - :telescope: I’m workinging daily to strengthen my skills as a software developer. 
 
@@ -32,5 +32,5 @@ About Me :
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom)
-
+</div>
 
