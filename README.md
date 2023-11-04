@@ -2,12 +2,10 @@
   <img src="https://bayarea.northeastern.edu/wp-content/uploads/Bay-Bridge-at-Sunrise-2-1.jpg" width="600" height="300"/>
 </div>
 
-
-
-  <div align="center">
+<div align="center">
     <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100"/>
-  </div>
-  <h1>Hi there. I'm Carneala </h1>
+</div>
+  <h1 align="center">Hi there. I'm Carneala </h1>
   <p>and I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
   
   <p>💻 As I make this transition, my passion for technology and software development has found its true calling. The limitless possibilities and creative freedom that coding provides have captivated me. I'm determined to apply my strong work ethic and problem-solving skills, honed through years of property management, to the ever-evolving world of tech.</p>
