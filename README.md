@@ -17,7 +17,7 @@
 
 --- 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
-<h1>About Me :</h1>
+<h1>ABOUT ME :</h1>
 
 - :telescope: I’m working daily to strengthen my skills as a software developer. 
 
@@ -29,7 +29,7 @@
 </div>
 
 ---
-
+<h1>STATS :</h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&exclude_repo=github-readme-stats,Carny94.github.io)
 
 </div>
