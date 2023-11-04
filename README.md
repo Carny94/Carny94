@@ -6,7 +6,7 @@
     <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100"/>
 </div>
   <h1 align="center">Hi there. I'm Carneala </h1>
-  <p>and I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
+  <p>I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
   
   <p>💻 As I make this transition, my passion for technology and software development has found its true calling. The limitless possibilities and creative freedom that coding provides have captivated me. I'm determined to apply my strong work ethic and problem-solving skills, honed through years of property management, to the ever-evolving world of tech.</p>
   
@@ -17,7 +17,7 @@
 
 --- 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
-<h1>ABOUT ME :</h1>
+<h1>ABOUT Carneala :</h1>
 
 - :telescope: I’m working daily to strengthen my skills as a software developer. 
 
@@ -32,4 +32,18 @@
 <h1>STATS :</h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&exclude_repo=github-readme-stats,Carny94.github.com)
 
+</div>
+
+---
+ :hammer_and_wrench: <h1>Languages and Tools :</h1>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
