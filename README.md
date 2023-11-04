@@ -27,3 +27,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom)
 </div>
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&exclude_repo=github-readme-stats,Carny94.github.io)
+
