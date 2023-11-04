@@ -13,13 +13,6 @@
     
   <p> Feel free to reach out, and let's connect. 🚀 </p> 
   
- <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
-  <a href="http://www.linkedin.com/in/carneala-odom">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Carny94&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
 
 --- 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
@@ -31,6 +24,6 @@
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom)
 </div>
 
