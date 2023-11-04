@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://bayarea.northeastern.edu/wp-content/uploads/Bay-Bridge-at-Sunrise-2-1.jpg" width="600" height="300"/>
+</div>
 
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
