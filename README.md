@@ -33,6 +33,6 @@
 
 ---
 <h1>STATS :</h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&exclude_repo=github-readme-stats,Carny94.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&exclude_repo=github-readme-stats,Carny94.github.com)
 
 </div>
