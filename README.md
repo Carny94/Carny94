@@ -28,6 +28,8 @@
 </div>
 
 ---
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&exclude_repo=github-readme-stats,Carny94.github.io)
 
+</div>
