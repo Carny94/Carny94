@@ -9,13 +9,28 @@
   
   <p>💻 As I make this transition, my passion for technology and software development has found its true calling. The limitless possibilities and creative freedom that coding provides have captivated me. I'm determined to apply my strong work ethic and problem-solving skills, honed through years of property management, to the ever-evolving world of tech.</p>
   
-  <p>🌟 With a curious mind and a heart full of enthusiasm, I'm here to embrace new challenges and contribute to the tech community. Join me on this exciting journey, and let's create remarkable things together! Feel free to reach out, and let's connect. 🚀</p>
+  <p>🌟 With a curious mind and a heart full of enthusiasm, I'm here to embrace new challenges and contribute to the tech community. Join me on this exciting journey, and let's create remarkable things together! </p>
+    
+  <p> Feel free to reach out, and let's connect. 🚀 </p> 
   
-  <div id="badges">
-    <a href="http://www.linkedin.com/in/carneala-odom/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge" align="center"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Carny94&style=flat-square&color=blue" alt="" align="center"/>
-  </div>
+ <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
+  <a href="http://www.linkedin.com/in/carneala-odom">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Carny94&style=flat-square&color=blue" alt="Profile Views" />
 </div>
+
+
+### :woman_technologist: 
+
+About Me :
+
+- :telescope: I’m workinging daily to strengthen my skills as a software developer. 
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Codewars and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom)
+
 
