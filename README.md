@@ -29,9 +29,8 @@
 </div>
 
 ---
-<h1>STATS :</h1>
-[![Carneala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carny94)](https://github.com/Carny94/github-readme-stats)
 
+![Carny94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carny94&theme=onedark&hide_border=false)
 
 ---
  :hammer_and_wrench: <h1>Languages and Tools :</h1>
