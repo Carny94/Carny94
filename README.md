@@ -30,8 +30,7 @@
 
 ---
 <h1>STATS :</h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&exclude_repo=github-readme-stats,Carny94.github.com)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carny94&show_icons=true&theme=radical)
 </div>
 
 ---
