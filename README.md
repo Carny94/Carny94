@@ -30,7 +30,7 @@
 
 ---
 <h1>STATS :</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carny94&show_icons=true&theme=radical)
+[![Carneala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carny94)](https://github.com/Carny94/github-readme-stats)
 </div>
 
 ---
