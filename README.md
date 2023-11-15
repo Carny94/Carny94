@@ -25,7 +25,9 @@
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom) 👧:(https://carneala-portfolio-832072b69e4a.herokuapp.com/)
+
+- 
 </div>
 
 ---
