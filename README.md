@@ -31,7 +31,7 @@
 ---
 <h1>STATS :</h1>
 [![Carneala's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carny94)](https://github.com/Carny94/github-readme-stats)
-</div>
+
 
 ---
  :hammer_and_wrench: <h1>Languages and Tools :</h1>
