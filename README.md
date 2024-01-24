@@ -8,14 +8,14 @@
   <h1 align="center">Hi there. I'm Carneala </h1>
   <p>I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
   
-  <p>💻 As I make this transition, my passion for technology and software development has found its true calling. The limitless possibilities and creative freedom that coding provides have captivated me. I'm determined to apply my strong work ethic and problem-solving skills, honed through years of property management, to the ever-evolving world of tech.</p>
-  
-  <p>🌟 With a curious mind and a heart full of enthusiasm, I'm here to embrace new challenges and contribute to the tech community. Join me on this exciting journey, and let's create remarkable things together! </p>
-    
   <p> Feel free to reach out, and let's connect. 🚀 </p> 
   
 
 --- 
+
+<div align="center">
+  <img src="https://github.com/Carny94/Carny94/assets/134980150/ea0850d7-4fc9-464b-a245-f18d1dce8a5b"  width="1440" alt="Screenshot 2024-01-24 at 12 43 52 AM" />
+</div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
 <h1>ABOUT Carneala :</h1>
 
