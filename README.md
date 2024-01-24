@@ -1,7 +1,8 @@
 
     <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100"/>
 </div>
-  <h1 align="center">Hi there. I'm Carneala </h1>
+  <h1 align="center">I am carneala </h1>
+  - :mailbox: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom) 👧:(https://carneala-portfolio-832072b69e4a.herokuapp.com/)
   <p>I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
   
   <p> Feel free to reach out, and let's connect. 🚀 </p> 
@@ -22,7 +23,7 @@
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom) 👧:(https://carneala-portfolio-832072b69e4a.herokuapp.com/)
+
 
 - 
 </div>
