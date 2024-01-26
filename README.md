@@ -16,19 +16,13 @@
   Oh, hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-
-  <p>I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
-
- <div align="center">
-  <p> Feel free to reach out, and let's connect. 🚀 </p> 
-   :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/carneala-odom) 👧:(https://carneala-portfolio-832072b69e4a.herokuapp.com/)
- </div>
---- 
+  <p align="center">I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
 
 <div align="center">
   <h1>Currently working on ... 👇</h1>
-  <img src="https://github.com/Carny94/Carny94/assets/134980150/ea0850d7-4fc9-464b-a245-f18d1dce8a5b"  width="1440" alt="Screenshot 2024-01-24 at 12 43 52 AM" />
+   <h2 align="center">L🫀VESTER</h2>
+  <img src="https://github.com/Carny94/Carny94/assets/134980150/ea0850d7-4fc9-464b-a245-f18d1dce8a5b"  width="800" alt="Screenshot 2024-01-24 at 12 43 52 AM" />
+   <p>This is Lovester a dating app , that will allow seeking users to swipe for love🫀, chat, like photos and more. </br> Also, seekers will need to sign in to access certain users. I cant wait to deploy and add its on readMe . Be o the lookout for Lovester... </p>
 </div>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; text-align: center;">
 <h1>ABOUT Carneala :</h1>
@@ -37,15 +31,13 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
-
-
-
-- 
+- :zap: In my free time, I solve problems on leetcode, work on apps, and apply for openings😄.
+  
 </div>
 
+
 <div align="center">
----
+
 
 ![Carny94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carny94&theme=onedark&hide_border=false)
 ![Carny94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&theme=onedark&show_icons=true&hide_border=false&layout=compact)
