@@ -13,7 +13,7 @@
     </a>
 </div>
 <div id="website" align="center">
-    <a href="[http://www.linkedin.com/in/carneala-odom](https://carneala-portfolio-832072b69e4a.herokuapp.com/)">
+    <a href="https://carneala-portfolio-832072b69e4a.herokuapp.com/">
        <img width="100" height="100" src="https://img.icons8.com/clouds/100/domain.png" alt="domain"/>
     </a>
 </div>
