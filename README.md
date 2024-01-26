@@ -12,6 +12,11 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
+<div id="website" align="center">
+    <a href="[http://www.linkedin.com/in/carneala-odom](https://carneala-portfolio-832072b69e4a.herokuapp.com/)">
+       <img width="100" height="100" src="https://img.icons8.com/clouds/100/domain.png" alt="domain"/>
+    </a>
+</div>
 <h1 id="wave" align="center">
   Oh, hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -38,14 +43,13 @@
 
 <div align="center">
 
-
 ![Carny94's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carny94&theme=onedark&hide_border=false)
 ![Carny94's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carny94&theme=onedark&show_icons=true&hide_border=false&layout=compact)
 ---
-
 </div>
+<div align="center">
  :hammer_and_wrench: <h1>Languages and Tools :</h1>
-<div>
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -53,5 +57,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
