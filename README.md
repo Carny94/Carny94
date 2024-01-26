@@ -1,10 +1,18 @@
 
-   
-  <h1 align="center">I am carneala </h1>
-  <h1 align="center">I develop</h1>
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" width="100" />
 </div>
+
+<div id="pc" align="center">
+    <img src="https://komarev.com/ghpvc/?username=Carny94&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div id="badges" align="center">
+    <a href="http://www.linkedin.com/in/carneala-odom">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+</div>
+
   <p>I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
 
  <div align="center">
