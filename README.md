@@ -12,6 +12,11 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
+<h1 id="wave" align="center">
+  Oh, hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
   <p>I'm on an exciting journey of transitioning from the world of property management to the dynamic realm of technology. Allow me to share a glimpse of who I am and what drives me. Hailing from the beautiful Bay Area, I've always had a profound appreciation for the lush, diverse landscapes and the innovation that surrounds me. Nature and adventures have been my greatest sources of inspiration.</p>
 
